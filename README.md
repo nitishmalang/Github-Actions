@@ -38,7 +38,7 @@ jobs:
 
 - **Action** - An action is a custom application for the GitHub Actions platform that performs a complex but frequently repeated task.
 
-- **Event** - An event is a specific activity that triggers a workflow. For example, activity that occurs on GitHub, such as opening a pull request or pushing a commit.
+- **Event** - An event is a specific activity that triggers a workflow. For example, activity that occurs on GitHub, such as opening pull request or pushing a commit.
 
 ### Triggers
 
