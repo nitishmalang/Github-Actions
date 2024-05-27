@@ -96,7 +96,7 @@ on:
 
 ### Services
 
-Services are external resources that can be used in a workflow. We can use services like `redis` or `postgres` in our workflow. We can run a service in a container and use it in our workflow. We can also use custom images.
+Services are external resources that can be used in the workflow. We can use services like `redis` or `postgres` in our workflow. We can run a service in a container and use it in our workflow. We can also use custom images.
 
 ```yaml
 services:
