@@ -22,7 +22,7 @@ GitHub Actions is a feature that allows you to automate your software developmen
 
 Basic worflow file.
 
-```yaml
+```yml
 name: CI # name of the workflow
 
 on: [push] # triggers the workflow on push or pull request events but only for the master branch
